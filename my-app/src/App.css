@@ -1,0 +1,30 @@
+.App{
+width: 100%;
+}
+.header{
+  height: 70px;
+  text-align: center;
+  color: aliceblue;
+  font-weight: bolder;
+  line-height: 70px;
+  background-color: blueviolet;
+}
+.main{
+  width:350px;
+  margin: 50px auto;
+}
+.main input.upload{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.main button{
+  height: 30px;
+}
+.main .image{
+  height: 224px;
+  width: 224px;
+  border:1px salmon solid;
+}
+.main p{
+  margin-top: 20px;
+}
